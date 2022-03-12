@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Kalculator
 //
-//  Created by JOGENDRA on 18/05/17.
-//  Copyright © 2017 Jogendra Singh. All rights reserved.
+//  Created by RUDRAKSH PALIWAL on 18/05/17.
+//  Copyright © 2022 RUDRAKSH PALIWAL . All rights reserved.
 //
 
 import UIKit
